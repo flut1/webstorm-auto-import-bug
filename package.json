@@ -1,0 +1,12 @@
+{
+  "name": "webstorm-auto-import",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/react": "^16.8.13",
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "open": "^6.1.0",
+    "react": "^16.8.6"
+  }
+}
